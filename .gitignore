@@ -1,0 +1,8 @@
+target
+log
+.settings
+.project
+.classpath
+.idea
+bin/
+release.properties
